@@ -23,7 +23,7 @@ Fitur:
 Source Code (Gratis)
 Password SQL database (Gratis) silahkan kunjungi link dibawah ini.
 
-chanel youtube : 
+Chanel Youtube : 
 https://youtube.com/playlist?list=PLuoBhQTNG8CBgJKNVbkUUzZgKTIVnq_b7
 
 *Wajib subscribe & like terimakasih.
