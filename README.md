@@ -3,6 +3,10 @@ Source Code PHP Native MVC (CRUD) - Login
 
 001 PHP Native MVC - Login.rar
 
+Username: admin / member
+
+Password: dds
+
 Fitur:
 - PHP Native
 - MVC method
