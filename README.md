@@ -26,7 +26,9 @@ Password SQL database (Gratis) silahkan kunjungi link dibawah ini.
 
 Chanel Youtube : 
 https://youtube.com/playlist?list=PLuoBhQTNG8CBgJKNVbkUUzZgKTIVnq_b7
+
 Tutorial dan Petunjuk Teknis Penggunaan!
+
 *Wajib subscribe & like terimakasih.
 
 Screen Shot:
