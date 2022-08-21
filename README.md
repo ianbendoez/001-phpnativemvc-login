@@ -32,3 +32,6 @@ Screen Shot:
 
 -Form Login
 ![Form Login](https://user-images.githubusercontent.com/36695013/185781375-7da1133d-d8d8-4053-8864-dd0890dabcbd.png)
+
+- Dashboard
+![Dashboard](https://user-images.githubusercontent.com/36695013/185781458-cb029ede-98c1-4e9d-9448-a38ecf5324be.png)
