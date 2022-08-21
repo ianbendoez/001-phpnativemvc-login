@@ -31,7 +31,31 @@ Tutorial dan Petunjuk Teknis Penggunaan!
 Screen Shot:
 
 -Form Login
-![Form Login](https://user-images.githubusercontent.com/36695013/185781375-7da1133d-d8d8-4053-8864-dd0890dabcbd.png)
+![Form Login](https://user-images.githubusercontent.com/36695013/185781797-9645358d-e1bc-4ec5-a51c-fdf3eae9454d.png)
 
 - Dashboard
-![Dashboard](https://user-images.githubusercontent.com/36695013/185781458-cb029ede-98c1-4e9d-9448-a38ecf5324be.png)
+![Dashboard](https://user-images.githubusercontent.com/36695013/185781807-7a46a9ce-d45f-4d92-9240-177701faca6e.png)
+
+- Ganti Kode User
+![Ganti Kode User](https://user-images.githubusercontent.com/36695013/185781832-5d0e1342-7648-49f0-9d7b-6975ef8ce02f.png)
+
+- Ganti Password
+![Ganti Password](https://user-images.githubusercontent.com/36695013/185781846-864d4a0f-ef73-416b-9b4d-d56dda976877.png)
+
+- Manajemen Hak Akses
+![Hak Akses Manajemen](https://user-images.githubusercontent.com/36695013/185781862-57f0eabf-9748-4301-9782-ea28bd7f7fac.png)
+
+- Manajemen Kode Akses
+![Kode Akses Manajemen](https://user-images.githubusercontent.com/36695013/185781879-e5aee571-21a0-4ca4-b15f-6dd5e5490d78.png)
+
+- Manajemen Kode
+![Kode Manajemen](https://user-images.githubusercontent.com/36695013/185781890-d144b2e2-dc24-4a98-8e63-be03a967cd6a.png)
+
+- Manajemen Menu
+![Menu Manajemen](https://user-images.githubusercontent.com/36695013/185781900-ca3698d5-dd4d-493b-bcc9-b622e9f979ca.png)
+
+- Manajemen User
+![User Manajemen](https://user-images.githubusercontent.com/36695013/185781911-87316164-c2b1-432e-8c07-8999771a9e8c.png)
+
+- Manajemen Referensi
+![Referensi Manajemen](https://user-images.githubusercontent.com/36695013/185781920-edfadcee-38cd-4666-948d-0caad24fe668.png)
